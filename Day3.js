@@ -8,4 +8,4 @@ function count (word) {
     }
     return vowels;
 }
-console.log(count("njk"))
+console.log(count("njko"))
